@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KWxynKh/tvmate.png" group-title="Sport",Fox Sports 1
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KWxynKh/tvmate.png" group-title="Sport",Fox Sports 2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KWxynKh/tvmate.png" group-title="Sport",Fox Sports 3
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
